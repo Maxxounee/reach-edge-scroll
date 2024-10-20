@@ -41,6 +41,6 @@
 		"stylelint-config-clean-order": "^5.2.0",
 		"stylelint-config-recommended-scss": "^13.1.0",
 		"stylelint-config-standard-scss": "^11.1.0",
-		"stylelint-config-standard-vue": "^1.0.0",
+		"stylelint-config-standard-vue": "^1.0.0"
 	}
 }
